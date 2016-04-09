@@ -1,0 +1,23 @@
+{
+    "name": "react-native-mtj",
+    "description": "百度移动端统计 —— React Native版本",
+    "version": "1.0.0",
+    "license": "MIT",
+    "main": "./mtj.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/magicismight/react-native-mtj"
+    },
+    "keywords": [
+        "react-component",
+        "react-native",
+        "ios",
+        "android",
+        "baidu",
+        "statistics",
+        "mtj"
+    ],
+    "dependencies": {
+        "lodash": "^4.6.1"
+    }
+}
