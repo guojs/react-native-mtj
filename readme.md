@@ -1,4 +1,4 @@
-### react-native-baidu-mob-stat
+### react-native-mtj
 
 百度移动统计 React Native 版
 ------------------------
