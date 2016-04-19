@@ -1,14 +1,13 @@
 package com.horcrux.RNMtj;
 
 import android.app.Activity;
-
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
-import android.util.Log;
-import com.baidu.mobstat.SendStrategyEnum;
-import com.baidu.mobstat.StatService;
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.ReadableMap;
+
+import com.baidu.mobstat.SendStrategyEnum;
+import com.baidu.mobstat.StatService;
 
 public class RNMtj extends ReactContextBaseJavaModule {
 
